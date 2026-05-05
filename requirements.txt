@@ -1,0 +1,14 @@
+python-dotenv>=1.0
+paddlepaddle>=2.5
+paddleocr>=2.7
+scenedetect[opencv]>=0.6
+moviepy>=1.0,<2.0
+anthropic>=0.25
+Pillow>=10.0
+numpy>=1.24
+opencv-python>=4.8
+pytest>=7.0
+pytest-mock>=3.0
+google-cloud-videointelligence>=2.11
+elevenlabs>=1.0
+boto3>=1.26
