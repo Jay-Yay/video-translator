@@ -10,7 +10,11 @@ ELEVENLABS_VOICE_ID_MALE="zdWu2I1sJrZsmxJG5rie"
 ELEVENLABS_VOICE_ID_FEMALE="fUjY9K2nAIwlALOwSiwc"
 ```
 3. Issue an API key from https://console.cloud.google.com/apis/dashboard, download 'key.json' file, and add it to the root of this project.
-
+4. Create these folder at the root
+  - videos-to-be-done
+  - videos-done
+  - checkpoints
+5. Put videos in the 'videos-to-be-done' folder
 
 
 
